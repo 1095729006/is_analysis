@@ -1,0 +1,7 @@
+@startuml
+
+object 图书管理员 {
+		 username = "菲兹的海神三叉戟"
+		 password = "沃利贝尔的大熊掌"
+}
+@enduml

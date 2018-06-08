@@ -1,0 +1,6 @@
+@startuml
+	object reader {
+	 	username = "雷恩加尔的指骨项链"
+		password = "塞罗奥特曼"
+	}
+@enduml
